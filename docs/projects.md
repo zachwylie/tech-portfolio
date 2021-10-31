@@ -1,6 +1,6 @@
 ---
-id: projects
-title: Projects
+id: boris-v2
+title: Boris' Notebook
 ---
 
 League of Legends Discord bot.
